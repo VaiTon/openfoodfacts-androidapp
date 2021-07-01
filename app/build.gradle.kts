@@ -139,7 +139,7 @@ dependencies {
 
     // Unit Testing
     testImplementation("junit:junit:4.13")
-    testImplementation("org.mockito:mockito-core:3.5.0")
+    testImplementation("org.mockito:mockito-core:3.11.2")
     testImplementation("net.javacrumbs.json-unit:json-unit-fluent:2.18.1")
     testImplementation("com.google.truth:truth:1.0.1")
     testImplementation("com.google.truth.extensions:truth-java8-extension:1.0.1")
